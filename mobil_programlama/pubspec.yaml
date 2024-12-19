@@ -1,0 +1,48 @@
+name: mobil_programlama
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you want to publish to pub.dev.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.0.0+4
+  path: ^1.8.0
+  cupertino_icons: ^1.0.6
+
+
+  # Include other dependencies here
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/foto2.jpg
+    - assets/images/foto1.png
+    - assets/images/foto3.gif
+    - assets/images/foto4.gif
+    - assets/images/foto5.png
+    - assets/images/foto6.jpg
+    - assets/images/foto7.gif
+    - assets/images/foto8.png
+    - assets/images/foto9.gif
+    - assets/images/foto10.jpg
+    - assets/images/foto11.gif
+    - assets/images/foto12.jpg
+    - assets/images/foto13.gif
+    - assets/images/foto14.jpg
+    - assets/images/foto15.gif
+    - assets/images/foto16.gif
+    - assets/images/foto17.gif
+    - assets/images/foto18.gif
+    - assets/images/foto19.png
